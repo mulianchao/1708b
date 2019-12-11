@@ -1,7 +1,6 @@
 package utils;
 
 import java.io.UnsupportedEncodingException;
-import java.util.Collections;
 import java.util.Random;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
